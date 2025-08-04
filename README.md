@@ -1,4 +1,3 @@
-```markdown
 # Triagem Clínica Hospitalar - v1
 
 ## 🩺 Descrição
